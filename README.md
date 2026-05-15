@@ -31,7 +31,7 @@ https://shopify-app-liart.vercel.app
 Clone the repository
 
 ```
-git clone https://github.com/ranjith-max/react-ecommerce-webapp.git
+git clone https://github.com/Gowthamr02/E-commerce-website
 ```
 
 Install dependencies
