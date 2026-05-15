@@ -1,0 +1,375 @@
+{
+  "newArrivals": [
+    {
+      "id": "1",
+      "name": "Classic White Sneakers",
+      "price": 2499,
+      "category": "Footwear",
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRjPTiNQVtG0_YVj1KJZubrNvX7FWiMnbWO9vM1KwU7zzlgAA6X1E-DtchNieTc3prm99b-4WKvwBHePtJGUI33O-3i0ee1-zcn0Ofm8ex5yC1iL6z1U60t",
+      "description": "Comfort meets style with our classic all-white sneakers.",
+      "quote": "Fresh Finds, Just Landed!"
+    },
+    {
+      "id": "2",
+      "name": "Denim Jacket",
+      "price": 3199,
+      "category": "Apparel",
+      "image": "https://image.hm.com/assets/hm/01/22/012296fb34bf6032135318932fc106e28236b54c.jpg?imwidth=564",
+      "description": "A timeless denim jacket for your casual days.",
+      "quote": "Be the First to Flaunt the New!"
+    },
+    {
+      "id": "3",
+      "name": "Smartwatch Pro X",
+      "price": 10999,
+      "category": "Accessories",
+      "image": "https://cdn-img.oraimo.com/fit-in/600x600/KE/product/2025/02/11/OSW-851H-12.jpg",
+      "description": "Track your fitness in style with Smartwatch Pro X.",
+      "quote": "Hot Trends, New Season!"
+    }
+  ],
+  "fashion": [
+    {
+      "id": "1",
+      "name": "Classic Denim Jacket",
+      "category": "Men",
+      "price": 2499,
+      "image": "https://i.pinimg.com/736x/a9/4c/93/a94c93bbcebf9247c65b867be2e6ba3a.jpg",
+      "description": "Timeless blue denim jacket with button closure and chest pockets."
+    },
+    {
+      "id": "2",
+      "name": "Floral Summer Dress",
+      "category": "Women",
+      "price": 1899,
+      "image": "https://i.pinimg.com/736x/bd/3d/1e/bd3d1eda8c221da67f4a1c0b72ff9052.jpg",
+      "description": "Lightweight floral dress perfect for summer outings."
+    },
+    {
+      "id": "5",
+      "name": "Men's Slim Fit Shirt",
+      "category": "Men",
+      "price": 1599,
+      "image": "https://i.pinimg.com/736x/86/5c/dc/865cdc8154e718fab8a3492dbbeaa6d3.jpg",
+      "description": "Cotton slim fit shirt for formal and casual wear."
+    },
+    {
+      "id": "6",
+      "name": "Women's High-Waist Jeans",
+      "category": "Women",
+      "price": 2199,
+      "image": "https://i.pinimg.com/736x/8d/2c/b0/8d2cb041dc8f468ab0b81181d83c0070.jpg",
+      "description": "Stretchable denim with a flattering high-waist design."
+    },
+    {
+      "id": "9",
+      "name": "Women's Casual Top",
+      "category": "Women",
+      "price": 1199,
+      "image": "https://i.pinimg.com/1200x/2c/63/cd/2c63cd73e582af47936a9f5fbca0bf4c.jpg",
+      "description": "Soft cotton top with round neck and short sleeves."
+    },
+    {
+      "id": "10",
+      "name": "Men's Cargo Pants",
+      "category": "Men",
+      "price": 1999,
+      "image": "https://i.pinimg.com/1200x/5f/1a/57/5f1a5702786369aec40271b45ca38860.jpg",
+      "description": "Durable cotton cargo pants with multiple pockets."
+    },
+    {
+      "id": "11",
+      "name": "Oversized Hoodie",
+      "category": "Women",
+      "price": 1999,
+      "image": "https://i.pinimg.com/1200x/a7/a8/f1/a7a8f117a49794d0bff3bc9569825343.jpg",
+      "description": "Comfortable and cozy oversized hoodie made from soft fleece fabric."
+    },
+    {
+      "id": "12",
+      "name": "Linen Blend Blazer",
+      "category": "Men",
+      "price": 4499,
+      "image": "https://i.pinimg.com/1200x/84/62/4c/84624c3cdeee314c92f4cd56a6f959c6.jpg",
+      "description": "Lightweight and breathable blazer perfect for smart-casual occasions."
+    },
+    {
+      "id": "13",
+      "name": "Wrap Midi Dress",
+      "category": "Women",
+      "price": 2799,
+      "image": "https://i.pinimg.com/736x/19/31/87/193187fb704f06ccbd34e6d6c2074719.jpg",
+      "description": "Elegant wrap dress that flatters every figure, perfect for day or night."
+    },
+    {
+      "id": "14",
+      "name": "Chino Shorts",
+      "category": "Men",
+      "price": 1499,
+      "image": "https://i.pinimg.com/736x/5f/55/76/5f5576138795e40944ee6fe70216d3c6.jpg",
+      "description": "Classic flat-front chino shorts made from comfortable cotton twill."
+    },
+    {
+      "id": "15",
+      "name": "Asymmetric Draped Blazer",
+      "category": "Women",
+      "price": 5200,
+      "image": "https://i.pinimg.com/736x/e9/39/f4/e939f42f528c04e2e742f9945879cbbd.jpg",
+      "description": "Architectural blazer with dramatic asymmetric draping and unique silhouette."
+    },
+    {
+      "id": "16",
+      "name": "Techwear Cargo Joggers",
+      "category": "Men",
+      "price": 3800,
+      "image": "https://i.pinimg.com/736x/aa/45/c8/aa45c838a946212622bac89cea1e138e.jpg",
+      "description": "Water-resistant tactical pants with multiple pockets and adjustable straps."
+    },
+    {
+      "id": "17",
+      "name": "Deconstructed Denim Shirt",
+      "category": "Women",
+      "price": 3200,
+      "image": "https://i.pinimg.com/736x/38/33/51/383351c6dfcfcda5ac16727e2ab96b3f.jpg",
+      "description": "Avant-garde denim shirt with raw edges and asymmetrical button placement."
+    },
+    {
+      "id": "18",
+      "name": "Reversible Bomber Jacket",
+      "category": "Men",
+      "price": 6500,
+      "image": "https://i.pinimg.com/1200x/b5/a2/9d/b5a29d7fcaa9d69f55f321d1dcc95b3a.jpg",
+      "description": "Two-in-one jacket featuring satin on one side and quilted nylon on the other."
+    }
+  ],
+  "electronics": [
+    {
+      "id": "1",
+      "name": "Apple iPhone 15",
+      "category": "Smartphone",
+      "price": 79999,
+      "image": "https://i.pinimg.com/736x/26/36/da/2636da195725d12328e12cf4073097b8.jpg",
+      "description": "Latest Apple iPhone with A17 Bionic chip and improved camera."
+    },
+    {
+      "id": "2",
+      "name": "Samsung Galaxy S24",
+      "category": "Smartphone",
+      "price": 69999,
+      "image": "https://i.pinimg.com/736x/90/df/ad/90dfad0e15da33a5547118d3bec82568.jpg",
+      "description": "Flagship Samsung smartphone with Dynamic AMOLED display."
+    },
+    {
+      "id": "3",
+      "name": "Sony WH-1000XM5",
+      "category": "Headphones",
+      "price": 24999,
+      "image": "https://i.pinimg.com/1200x/c1/01/af/c101af9607f135093caba7e61934c632.jpg",
+      "description": "Industry-leading noise cancelling wireless headphones."
+    },
+    {
+      "id": "4",
+      "name": "Apple MacBook Air M2",
+      "category": "Laptop",
+      "price": 119999,
+      "image": "https://i.pinimg.com/736x/3c/03/a5/3c03a5e367e2335f058355443220e9c7.jpg",
+      "description": "Ultra-thin laptop with Apple M2 chip and Retina display."
+    },
+    {
+      "id": "5",
+      "name": "Dell XPS 13",
+      "category": "Laptop",
+      "price": 109999,
+      "image": "https://i.pinimg.com/1200x/97/cb/b5/97cbb5592d151b4caf2a92f1c00717f8.jpg",
+      "description": "Compact and powerful Windows laptop with InfinityEdge display."
+    },
+    {
+      "id": "6",
+      "name": "Apple Watch Series 9",
+      "category": "Smartwatch",
+      "price": 39999,
+      "image": "https://i.pinimg.com/1200x/23/aa/02/23aa0275ccd57d2db562a0db72a686a4.jpg",
+      "description": "Smartwatch with fitness tracking, heart monitoring, and cellular options."
+    },
+    {
+      "id": "7",
+      "name": "Google Pixel 8",
+      "category": "Smartphone",
+      "price": 59999,
+      "image": "https://i.pinimg.com/736x/97/7d/73/977d73d850bd79ec156f376de68686f5.jpg",
+      "description": "Google's latest Pixel phone with Tensor G3 chip and advanced AI features."
+    },
+    {
+      "id": "8",
+      "name": "Bose QuietComfort Earbuds II",
+      "category": "Earbuds",
+      "price": 21999,
+      "image": "https://i.pinimg.com/736x/96/93/9a/96939ad772a1b1d7bd08a0627e87527c.jpg",
+      "description": "True wireless earbuds with excellent noise cancelling and sound quality."
+    },
+    {
+      "id": "9",
+      "name": "Samsung 55\" QLED 4K TV",
+      "category": "Television",
+      "price": 74999,
+      "image": "https://i.pinimg.com/736x/28/66/ad/2866ad10b43afca4e232893ad923d21d.jpg",
+      "description": "Ultra HD Smart TV with Quantum Dot technology and HDR support."
+    },
+    {
+      "id": "10",
+      "name": "Kindle Paperwhite",
+      "category": "E-reader",
+      "price": 12999,
+      "image": "https://i.pinimg.com/1200x/36/af/3e/36af3e0c89c01abdd658c929fda83ba6.jpg",
+      "description": "Waterproof e-reader with high-resolution display and built-in light."
+    },
+    {
+      "id": "11",
+      "name": "DJI Mavic 3 Pro Drone",
+      "category": "Drone",
+      "price": 174999,
+      "image": "https://i.pinimg.com/1200x/6a/71/4e/6a714e4069060dce83e777d5335c3a3c.jpg",
+      "description": "Professional aerial photography drone with triple camera system and 46-minute flight time."
+    },
+    {
+      "id": "12",
+      "name": "Meta Quest 3 VR Headset",
+      "category": "VR Headset",
+      "price": 52999,
+      "image": "https://i.pinimg.com/1200x/e2/75/5e/e2755e31662483eee14f4c6a33bf5970.jpg",
+      "description": "Mixed reality headset with pancake lenses, color passthrough, and Snapdragon XR2 Gen 2."
+    },
+    {
+      "id": "13",
+      "name": "Raspberry Pi 5 Kit",
+      "category": "Single-Board Computer",
+      "price": 8999,
+      "image": "https://i.pinimg.com/736x/b0/66/2a/b0662ad393480ea28d2f1f480805aab3.jpg",
+      "description": "Latest single-board computer for DIY projects, coding, and electronics prototyping."
+    },
+    {
+      "id": "14",
+      "name": "Fujifilm Instax Mini 99",
+      "category": "Instant Camera",
+      "price": 18999,
+      "image": "https://i.pinimg.com/736x/3d/40/a9/3d40a90a8a985c59f1e02187726fd195.jpg",
+      "description": "Creative instant film camera with multiple exposure modes and color effects."
+    }
+  ],
+  "accessories": [
+    {
+      "id": "1",
+      "name": "Leather Wallet",
+      "category": "Accessories",
+      "price": 799,
+      "image": "https://i.pinimg.com/736x/a6/83/1f/a6831fba010e2c47c7b226c454234993.jpg",
+      "description": "Genuine leather wallet with multiple card slots and a coin pocket."
+    },
+    {
+      "id": "2",
+      "name": "Sunglasses",
+      "category": "Accessories",
+      "price": 1299,
+      "image": "https://i.pinimg.com/1200x/8f/77/a6/8f77a6f12b952ba03460ee5fb7c37451.jpg",
+      "description": "UV-protected aviator sunglasses for a classic look."
+    },
+    {
+      "id": "3",
+      "name": "Wrist Watch",
+      "category": "Accessories",
+      "price": 2499,
+      "image": "https://i.pinimg.com/1200x/ce/30/2f/ce302f4680f2a19c028f0437ea71813e.jpg",
+      "description": "Stylish analog watch with a stainless steel strap."
+    },
+    {
+      "id": "4",
+      "name": "Leather Belt",
+      "category": "Accessories",
+      "price": 999,
+      "image": "https://i.pinimg.com/1200x/35/35/b2/3535b2e30179872eb90dcf3227b2817d.jpg",
+      "description": "Premium leather belt with a sleek buckle design."
+    },
+    {
+      "id": "5",
+      "name": "Silk Scarf",
+      "category": "Accessories",
+      "price": 1499,
+      "image": "https://i.pinimg.com/736x/94/ca/eb/94caeb1ad863c1cdc993b3b1c4b34f90.jpg",
+      "description": "Luxurious silk scarf with floral prints."
+    },
+    {
+      "id": "6",
+      "name": "Tote Bag",
+      "category": "Accessories",
+      "price": 1999,
+      "image": "https://i.pinimg.com/1200x/f5/7e/4b/f57e4b1f234327fbdf9877292c5c00ef.jpg",
+      "description": "Spacious canvas tote bag with leather handles."
+    },
+    {
+      "id": "7",
+      "name": "Baseball Cap",
+      "category": "Accessories",
+      "price": 599,
+      "image": "https://i.pinimg.com/1200x/66/39/b1/6639b14e55fa4bfc623fed7319cb4435.jpg",
+      "description": "Cotton baseball cap with adjustable strap."
+    },
+    {
+      "id": "8",
+      "name": "Choker Necklace",
+      "category": "Accessories",
+      "price": 799,
+      "image": "https://i.pinimg.com/1200x/c2/83/cf/c283cfa06a80d77b44a7b6f54e9e4beb.jpg",
+      "description": "Trendy choker necklace with a velvet ribbon."
+    },
+    {
+      "id": "9",
+      "name": "Gloves",
+      "category": "Accessories",
+      "price": 899,
+      "image": "https://i.pinimg.com/736x/94/af/4a/94af4a38aeb0f69213af07780ed0524f.jpg",
+      "description": "Warm knitted gloves with touchscreen compatibility."
+    },
+    {
+      "id": "10",
+      "name": "Earrings",
+      "category": "Accessories",
+      "price": 1199,
+      "image": "https://i.pinimg.com/1200x/ee/a7/d2/eea7d26a64c538ba9913f370ccb59c72.jpg",
+      "description": "Elegant stud earrings with cubic zirconia stones."
+    },
+    {
+      "id": "11",
+      "name": "Magnetic Phone Grip Stand",
+      "category": "Tech Accessories",
+      "price": 899,
+      "image": "https://i.pinimg.com/1200x/33/07/67/3307676bf64b8f1a7b18a234763648e3.jpg",
+      "description": "Wireless charging compatible phone grip with adjustable viewing stand."
+    },
+    {
+      "id": "12",
+      "name": "Smart Ring",
+      "category": "Wearable Tech",
+      "price": 12999,
+      "image": "https://i.pinimg.com/1200x/89/48/d4/8948d495eae23008f51e73c6a7e63f1b.jpg",
+      "description": "Sleek titanium smart ring tracking sleep, activity, and heart rate."
+    },
+    {
+      "id": "13",
+      "name": "Transparent AirPods Case",
+      "category": "Tech Accessories",
+      "price": 599,
+      "image": "https://i.pinimg.com/1200x/1f/27/62/1f2762c64b1c7b9dac63a1020f894370.jpg",
+      "description": "Crystal clear protective case with carabiner clip for AirPods."
+    },
+    {
+      "id": "14",
+      "name": "LED Light Up Shoelaces",
+      "category": "Novelty Accessories",
+      "price": 499,
+      "image": "https://i.pinimg.com/1200x/68/1f/cb/681fcbac5ad13cd462b2b6c085ad4514.jpg",
+      "description": "Rechargeable colorful LED shoelaces with multiple lighting modes."
+    }
+  ],
+  "cart": [],
+  "orders": []
+}
